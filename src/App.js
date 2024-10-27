@@ -1,10 +1,10 @@
-import './App.css';
-import Tabs from './components/Tabs';
+import "./App.css";
+import Tabs from "./components/tab";
 
 function App() {
   return (
     <div>
-      <Tabs/>
+      <Tabs />
     </div>
   );
 }
