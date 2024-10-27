@@ -1,6 +1,7 @@
 {
   "name": "react-simple-tabs",
   "version": "0.1.0",
+  "proxy": "https://loripsum.net/api/10/short",
   "private": true,
   "dependencies": {
     "@tanstack/react-query": "^5.59.16",
